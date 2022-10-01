@@ -1,0 +1,1094 @@
+[
+    {
+        "id": "ID",
+        "description": " Name"
+    },
+    {
+        "id": "00",
+        "description": " Empty"
+    },
+    {
+        "id": "01",
+        "description": " DOS 12-bit FAT"
+    },
+    {
+        "id": "02",
+        "description": " XENIX root"
+    },
+    {
+        "id": "03",
+        "description": " XENIX /usr"
+    },
+    {
+        "id": "04",
+        "description": " DOS 3.0+ 16-bit FAT (up to 32M)"
+    },
+    {
+        "id": "05",
+        "description": " DOS 3.3+ Extended Partition"
+    },
+    {
+        "id": "06",
+        "description": " DOS 3.31+ 16-bit FAT (over 32M)"
+    },
+    {
+        "id": "07",
+        "description": " OS/2 IFS (e.g., HPFS)"
+    },
+    {
+        "id": "07",
+        "description": " Windows NT NTFS"
+    },
+    {
+        "id": "07",
+        "description": " exFAT"
+    },
+    {
+        "id": "07",
+        "description": " Advanced Unix"
+    },
+    {
+        "id": "07",
+        "description": " QNX2.x pre-1988 (see below under IDs 4d-4f)"
+    },
+    {
+        "id": "08",
+        "description": " OS/2 (v1.0-1.3 only)"
+    },
+    {
+        "id": "08",
+        "description": " AIX boot partition"
+    },
+    {
+        "id": "08",
+        "description": " SplitDrive"
+    },
+    {
+        "id": "08",
+        "description": " Commodore DOS"
+    },
+    {
+        "id": "08",
+        "description": " DELL partition spanning multiple drives"
+    },
+    {
+        "id": "08",
+        "description": " QNX 1.x and 2.x (\"qny\")"
+    },
+    {
+        "id": "09",
+        "description": " AIX data partition"
+    },
+    {
+        "id": "09",
+        "description": " Coherent filesystem"
+    },
+    {
+        "id": "09",
+        "description": " QNX 1.x and 2.x (\"qnz\")"
+    },
+    {
+        "id": "0A",
+        "description": " OS/2 Boot Manager"
+    },
+    {
+        "id": "0A",
+        "description": " Coherent swap partition"
+    },
+    {
+        "id": "0A",
+        "description": " OPUS"
+    },
+    {
+        "id": "0B",
+        "description": " WIN95 OSR2 FAT32"
+    },
+    {
+        "id": "0C",
+        "description": " WIN95 OSR2 FAT32, LBA-mapped"
+    },
+    {
+        "id": "0D",
+        "description": " SILICON SAFE"
+    },
+    {
+        "id": "0E",
+        "description": " WIN95: DOS 16-bit FAT, LBA-mapped"
+    },
+    {
+        "id": "0F",
+        "description": " WIN95: Extended partition, LBA-mapped"
+    },
+    {
+        "id": "10",
+        "description": " OPUS (?)"
+    },
+    {
+        "id": "11",
+        "description": " Hidden DOS 12-bit FAT"
+    },
+    {
+        "id": "11",
+        "description": " Leading Edge DOS 3.x"
+    },
+    {
+        "id": "12",
+        "description": " Configuration/diagnostics partition"
+    },
+    {
+        "id": "14",
+        "description": " Hidden DOS 16-bit FAT &lt;32M"
+    },
+    {
+        "id": "14",
+        "description": " AST DOS with "
+    },
+    {
+        "id": "16",
+        "description": " Hidden DOS 16-bit FAT &gt;=32M"
+    },
+    {
+        "id": "17",
+        "description": " Hidden IFS (e.g., HPFS)"
+    },
+    {
+        "id": "18",
+        "description": " AST SmartSleep Partition"
+    },
+    {
+        "id": "19",
+        "description": " Unused"
+    },
+    {
+        "id": "1B",
+        "description": " Hidden WIN95 OSR2 FAT32"
+    },
+    {
+        "id": "1C",
+        "description": " Hidden WIN95 OSR2 FAT32, LBA-mapped"
+    },
+    {
+        "id": "1E",
+        "description": " Hidden WIN95 16-bit FAT, LBA-mapped"
+    },
+    {
+        "id": "20",
+        "description": " Unused"
+    },
+    {
+        "id": "21",
+        "description": " Reserved"
+    },
+    {
+        "id": "21",
+        "description": " Unused"
+    },
+    {
+        "id": "22",
+        "description": " Unused"
+    },
+    {
+        "id": "23",
+        "description": " Reserved"
+    },
+    {
+        "id": "24",
+        "description": " NEC DOS 3.x"
+    },
+    {
+        "id": "26",
+        "description": " Reserved"
+    },
+    {
+        "id": "27",
+        "description": " PQservice"
+    },
+    {
+        "id": "27",
+        "description": " Windows RE hidden partition"
+    },
+    {
+        "id": "27",
+        "description": " MirOS partition"
+    },
+    {
+        "id": "27",
+        "description": " RouterBOOT kernel partition"
+    },
+    {
+        "id": "2A",
+        "description": " AtheOS File System (AFS)"
+    },
+    {
+        "id": "2B",
+        "description": "SyllableSecure (SylStor)"
+    },
+    {
+        "id": "31",
+        "description": " Reserved"
+    },
+    {
+        "id": "32",
+        "description": " NOS"
+    },
+    {
+        "id": "33",
+        "description": " Reserved"
+    },
+    {
+        "id": "34",
+        "description": " Reserved"
+    },
+    {
+        "id": "35",
+        "description": " JFS on OS/2 or eCS "
+    },
+    {
+        "id": "36",
+        "description": " Reserved"
+    },
+    {
+        "id": "38",
+        "description": " THEOS ver 3.2 2gb partition"
+    },
+    {
+        "id": "39",
+        "description": " Plan 9 partition"
+    },
+    {
+        "id": "39",
+        "description": " THEOS ver 4 spanned partition"
+    },
+    {
+        "id": "3A",
+        "description": " THEOS ver 4 4gb partition"
+    },
+    {
+        "id": "3B",
+        "description": " THEOS ver 4 extended partition"
+    },
+    {
+        "id": "3C",
+        "description": " PartitionMagic recovery partition"
+    },
+    {
+        "id": "3D",
+        "description": " Hidden NetWare"
+    },
+    {
+        "id": "40",
+        "description": " Venix 80286"
+    },
+    {
+        "id": "40",
+        "description": " PICK"
+    },
+    {
+        "id": "41",
+        "description": " Linux/MINIX (sharing disk with DRDOS)"
+    },
+    {
+        "id": "41",
+        "description": " Personal RISC Boot"
+    },
+    {
+        "id": "41",
+        "description": " PPC PReP (Power PC Reference Platform) Boot"
+    },
+    {
+        "id": "42",
+        "description": " Linux swap (sharing disk with DRDOS)"
+    },
+    {
+        "id": "42",
+        "description": " SFS (Secure Filesystem)"
+    },
+    {
+        "id": "42",
+        "description": " Windows 2000 dynamic extended partition marker"
+    },
+    {
+        "id": "43",
+        "description": " Linux native (sharing disk with DRDOS)"
+    },
+    {
+        "id": "44",
+        "description": " GoBack partition"
+    },
+    {
+        "id": "45",
+        "description": " Boot-US boot manager"
+    },
+    {
+        "id": "45",
+        "description": " Priam"
+    },
+    {
+        "id": "45",
+        "description": " EUMEL/Elan "
+    },
+    {
+        "id": "46",
+        "description": " EUMEL/Elan "
+    },
+    {
+        "id": "47",
+        "description": " EUMEL/Elan "
+    },
+    {
+        "id": "48",
+        "description": " EUMEL/Elan "
+    },
+    {
+        "id": "4A",
+        "description": " Mark Aitchison's ALFS/THIN lightweight filesystem for DOS"
+    },
+    {
+        "id": "4A",
+        "description": " AdaOS Aquila (Withdrawn)"
+    },
+    {
+        "id": "4C",
+        "description": " Oberon partition"
+    },
+    {
+        "id": "4D",
+        "description": " QNX4.x"
+    },
+    {
+        "id": "4E",
+        "description": " QNX4.x 2nd part"
+    },
+    {
+        "id": "4F",
+        "description": " QNX4.x 3rd part"
+    },
+    {
+        "id": "4F",
+        "description": " Oberon partition"
+    },
+    {
+        "id": "50",
+        "description": " OnTrack Disk Manager (older versions) RO"
+    },
+    {
+        "id": "50",
+        "description": " Lynx RTOS"
+    },
+    {
+        "id": "50",
+        "description": " Native Oberon (alt)"
+    },
+    {
+        "id": "51",
+        "description": " OnTrack Disk Manager RW (DM6 Aux1)"
+    },
+    {
+        "id": "51",
+        "description": " Novell"
+    },
+    {
+        "id": "52",
+        "description": " CP/M"
+    },
+    {
+        "id": "52",
+        "description": " Microport SysV/AT"
+    },
+    {
+        "id": "53",
+        "description": " Disk Manager 6.0 Aux3"
+    },
+    {
+        "id": "54",
+        "description": " Disk Manager 6.0 Dynamic Drive Overlay (DDO)"
+    },
+    {
+        "id": "55",
+        "description": " EZ-Drive"
+    },
+    {
+        "id": "56",
+        "description": " Golden Bow VFeature Partitioned Volume."
+    },
+    {
+        "id": "56",
+        "description": " DM converted to EZ-BIOS"
+    },
+    {
+        "id": "56",
+        "description": " AT&amp;T MS-DOS 3.x"
+    },
+    {
+        "id": "57",
+        "description": " DrivePro"
+    },
+    {
+        "id": "57",
+        "description": " VNDI Partition"
+    },
+    {
+        "id": "5C",
+        "description": " Priam EDisk"
+    },
+    {
+        "id": "61",
+        "description": " SpeedStor"
+    },
+    {
+        "id": "63",
+        "description": " Unix System V (SCO, ISC Unix, UnixWare, ...), Mach, GNU Hurd"
+    },
+    {
+        "id": "64",
+        "description": " PC-ARMOUR protected partition"
+    },
+    {
+        "id": "64",
+        "description": " Novell Netware 286, 2.xx"
+    },
+    {
+        "id": "65",
+        "description": " Novell Netware 386, 3.xx or 4.xx"
+    },
+    {
+        "id": "66",
+        "description": " Novell Netware SMS Partition"
+    },
+    {
+        "id": "67",
+        "description": " Novell"
+    },
+    {
+        "id": "68",
+        "description": " Novell"
+    },
+    {
+        "id": "69",
+        "description": " Novell Netware 5+, Novell Netware NSS Partition"
+    },
+    {
+        "id": "6E",
+        "description": " ??"
+    },
+    {
+        "id": "70",
+        "description": " DiskSecure Multi-Boot"
+    },
+    {
+        "id": "71",
+        "description": " Reserved"
+    },
+    {
+        "id": "72",
+        "description": " V7/x86"
+    },
+    {
+        "id": "73",
+        "description": " Reserved"
+    },
+    {
+        "id": "74",
+        "description": " Reserved"
+    },
+    {
+        "id": "74",
+        "description": " Scramdisk partition"
+    },
+    {
+        "id": "75",
+        "description": " IBM PC/IX"
+    },
+    {
+        "id": "76",
+        "description": " Reserved"
+    },
+    {
+        "id": "77",
+        "description": " M2FS/M2CS partition"
+    },
+    {
+        "id": "77",
+        "description": " VNDI Partition"
+    },
+    {
+        "id": "78",
+        "description": " XOSL FS"
+    },
+    {
+        "id": "7E",
+        "description": " Unused"
+    },
+    {
+        "id": "7F",
+        "description": " Unused"
+    },
+    {
+        "id": "80",
+        "description": " MINIX until 1.4a"
+    },
+    {
+        "id": "81",
+        "description": " MINIX since 1.4b, early Linux"
+    },
+    {
+        "id": "81",
+        "description": " Mitac disk manager"
+    },
+    {
+        "id": "82",
+        "description": " Prime"
+    },
+    {
+        "id": "82",
+        "description": " Solaris x86"
+    },
+    {
+        "id": "82",
+        "description": " Linux swap"
+    },
+    {
+        "id": "83",
+        "description": " Linux native partition"
+    },
+    {
+        "id": "84",
+        "description": " OS/2 hidden C: drive"
+    },
+    {
+        "id": "84",
+        "description": " Hibernation partition"
+    },
+    {
+        "id": "85",
+        "description": " Linux extended partition"
+    },
+    {
+        "id": "86",
+        "description": " Old Linux RAID partition superblock"
+    },
+    {
+        "id": "86",
+        "description": " FAT16 volume set"
+    },
+    {
+        "id": "87",
+        "description": " NTFS volume set"
+    },
+    {
+        "id": "88",
+        "description": " Linux plaintext partition table"
+    },
+    {
+        "id": "8A",
+        "description": " Linux Kernel Partition (used by AiR-BOOT)"
+    },
+    {
+        "id": "8B",
+        "description": " Legacy Fault Tolerant FAT32 volume"
+    },
+    {
+        "id": "8C",
+        "description": " Legacy Fault Tolerant FAT32 volume using BIOS extd INT 13h"
+    },
+    {
+        "id": "8D",
+        "description": " Free FDISK 0.96+ hidden Primary DOS FAT12 partitition"
+    },
+    {
+        "id": "8E",
+        "description": " Linux Logical Volume Manager partition"
+    },
+    {
+        "id": "90",
+        "description": " Free FDISK 0.96+ hidden Primary DOS FAT16 partitition"
+    },
+    {
+        "id": "91",
+        "description": " Free FDISK 0.96+ hidden DOS extended partitition"
+    },
+    {
+        "id": "92",
+        "description": " Free FDISK 0.96+ hidden Primary DOS large FAT16 partitition"
+    },
+    {
+        "id": "93",
+        "description": " Hidden Linux native partition"
+    },
+    {
+        "id": "93",
+        "description": " Amoeba"
+    },
+    {
+        "id": "94",
+        "description": " Amoeba bad block table"
+    },
+    {
+        "id": "95",
+        "description": " MIT EXOPC native partitions"
+    },
+    {
+        "id": "96",
+        "description": " CHRP ISO-9660 filesystem"
+    },
+    {
+        "id": "97",
+        "description": " Free FDISK 0.96+ hidden Primary DOS FAT32 partitition"
+    },
+    {
+        "id": "98",
+        "description": " Free FDISK 0.96+ hidden Primary DOS FAT32 partitition (LBA)"
+    },
+    {
+        "id": "98",
+        "description": " Datalight ROM-DOS Super-Boot Partition"
+    },
+    {
+        "id": "99",
+        "description": " DCE376 logical drive"
+    },
+    {
+        "id": "9A",
+        "description": " Free FDISK 0.96+ hidden Primary DOS FAT16 partitition (LBA)"
+    },
+    {
+        "id": "9B",
+        "description": " Free FDISK 0.96+ hidden DOS extended partitition (LBA)"
+    },
+    {
+        "id": "9E",
+        "description": " ForthOS partition"
+    },
+    {
+        "id": "9F",
+        "description": " BSD/OS"
+    },
+    {
+        "id": "A0",
+        "description": " Laptop hibernation partition"
+    },
+    {
+        "id": "A1",
+        "description": " Laptop hibernation partition"
+    },
+    {
+        "id": "A1",
+        "description": " HP Volume Expansion (SpeedStor variant)"
+    },
+    {
+        "id": "A3",
+        "description": " HP Volume Expansion (SpeedStor variant)"
+    },
+    {
+        "id": "A4",
+        "description": " HP Volume Expansion (SpeedStor variant)"
+    },
+    {
+        "id": "A5",
+        "description": " BSD/386, 386BSD, NetBSD, FreeBSD"
+    },
+    {
+        "id": "A6",
+        "description": " OpenBSD"
+    },
+    {
+        "id": "A6",
+        "description": " HP Volume Expansion (SpeedStor variant)"
+    },
+    {
+        "id": "A7",
+        "description": " NeXTStep"
+    },
+    {
+        "id": "A8",
+        "description": " Mac OS-X"
+    },
+    {
+        "id": "A9",
+        "description": " NetBSD"
+    },
+    {
+        "id": "AA",
+        "description": " Olivetti Fat 12 1.44MB Service Partition"
+    },
+    {
+        "id": "AB",
+        "description": " Mac OS-X Boot partition"
+    },
+    {
+        "id": "AB",
+        "description": " GO! partition"
+    },
+    {
+        "id": "AD",
+        "description": " RISC OS ADFS"
+    },
+    {
+        "id": "AE",
+        "description": " ShagOS filesystem"
+    },
+    {
+        "id": "AF",
+        "description": " ShagOS swap partition"
+    },
+    {
+        "id": "AF",
+        "description": " MacOS X HFS"
+    },
+    {
+        "id": "B0",
+        "description": " BootStar Dummy"
+    },
+    {
+        "id": "B1",
+        "description": " HP Volume Expansion (SpeedStor variant)"
+    },
+    {
+        "id": "B1",
+        "description": " QNX Neutrino Power-Safe filesystem"
+    },
+    {
+        "id": "B2",
+        "description": " QNX Neutrino Power-Safe filesystem"
+    },
+    {
+        "id": "B3",
+        "description": " HP Volume Expansion (SpeedStor variant)"
+    },
+    {
+        "id": "B3",
+        "description": " QNX Neutrino Power-Safe filesystem"
+    },
+    {
+        "id": "B4",
+        "description": " HP Volume Expansion (SpeedStor variant)"
+    },
+    {
+        "id": "B6",
+        "description": " HP Volume Expansion (SpeedStor variant)"
+    },
+    {
+        "id": "B6",
+        "description": " Corrupted Windows NT mirror set (master), FAT16 file system"
+    },
+    {
+        "id": "B7",
+        "description": " Corrupted Windows NT mirror set (master), NTFS file system"
+    },
+    {
+        "id": "B7",
+        "description": " BSDI BSD/386 filesystem"
+    },
+    {
+        "id": "B8",
+        "description": " BSDI BSD/386 swap partition"
+    },
+    {
+        "id": "BB",
+        "description": " Boot Wizard hidden"
+    },
+    {
+        "id": "BC",
+        "description": " Acronis backup partition"
+    },
+    {
+        "id": "BD",
+        "description": " BonnyDOS/286"
+    },
+    {
+        "id": "BE",
+        "description": " Solaris 8 boot partition"
+    },
+    {
+        "id": "BF",
+        "description": " New Solaris x86 partition"
+    },
+    {
+        "id": "C0",
+        "description": " CTOS"
+    },
+    {
+        "id": "C0",
+        "description": " REAL/32 secure small partition"
+    },
+    {
+        "id": "C0",
+        "description": " NTFT Partition"
+    },
+    {
+        "id": "C0",
+        "description": " DR-DOS/Novell DOS secured partition"
+    },
+    {
+        "id": "C1",
+        "description": " DRDOS/secured (FAT-12)"
+    },
+    {
+        "id": "C2",
+        "description": " Unused"
+    },
+    {
+        "id": "C2",
+        "description": " Hidden Linux"
+    },
+    {
+        "id": "C3",
+        "description": " Hidden Linux swap"
+    },
+    {
+        "id": "C4",
+        "description": " DRDOS/secured (FAT-16, &lt; 32M)"
+    },
+    {
+        "id": "C5",
+        "description": " DRDOS/secured (extended)"
+    },
+    {
+        "id": "C6",
+        "description": " DRDOS/secured (FAT-16, &gt;= 32M)"
+    },
+    {
+        "id": "C6",
+        "description": " Windows NT corrupted FAT16 volume/stripe set"
+    },
+    {
+        "id": "C7",
+        "description": " Windows NT corrupted NTFS volume/stripe set"
+    },
+    {
+        "id": "C7",
+        "description": " Syrinx boot"
+    },
+    {
+        "id": "C8",
+        "description": " Reserved for DR-DOS 8.0+"
+    },
+    {
+        "id": "C9",
+        "description": " Reserved for DR-DOS 8.0+"
+    },
+    {
+        "id": "CA",
+        "description": " Reserved for DR-DOS 8.0+"
+    },
+    {
+        "id": "CB",
+        "description": " DR-DOS 7.04+ secured FAT32 (CHS)/"
+    },
+    {
+        "id": "CC",
+        "description": " DR-DOS 7.04+ secured FAT32 (LBA)/"
+    },
+    {
+        "id": "CD",
+        "description": " CTOS Memdump? "
+    },
+    {
+        "id": "CE",
+        "description": " DR-DOS 7.04+ FAT16X (LBA)/"
+    },
+    {
+        "id": "CF",
+        "description": " DR-DOS 7.04+ secured EXT DOS (LBA)/"
+    },
+    {
+        "id": "D0",
+        "description": " REAL/32 secure big partition"
+    },
+    {
+        "id": "D0",
+        "description": " Multiuser DOS secured partition"
+    },
+    {
+        "id": "D1",
+        "description": " Old Multiuser DOS secured FAT12"
+    },
+    {
+        "id": "D4",
+        "description": " Old Multiuser DOS secured FAT16 &lt;32M"
+    },
+    {
+        "id": "D5",
+        "description": " Old Multiuser DOS secured extended partition"
+    },
+    {
+        "id": "D6",
+        "description": " Old Multiuser DOS secured FAT16 &gt;=32M"
+    },
+    {
+        "id": "D8",
+        "description": " CP/M-86"
+    },
+    {
+        "id": "DA",
+        "description": " Non-FS Data"
+    },
+    {
+        "id": "DA",
+        "description": " Powercopy Backup"
+    },
+    {
+        "id": "DB",
+        "description": " Digital Research CP/M, Concurrent CP/M, Concurrent DOS"
+    },
+    {
+        "id": "DB",
+        "description": " CTOS (Convergent Technologies OS -Unisys)"
+    },
+    {
+        "id": "DB",
+        "description": " KDG Telemetry SCPU boot"
+    },
+    {
+        "id": "DD",
+        "description": " Hidden CTOS Memdump? "
+    },
+    {
+        "id": "DE",
+        "description": " Dell PowerEdge Server utilities (FAT fs)"
+    },
+    {
+        "id": "DF",
+        "description": " DG/UX virtual disk manager partition"
+    },
+    {
+        "id": "DF",
+        "description": " BootIt EMBRM"
+    },
+    {
+        "id": "E0",
+        "description": " Reserved by "
+    },
+    {
+        "id": "E1",
+        "description": " DOS access or SpeedStor 12-bit FAT extended partition"
+    },
+    {
+        "id": "E3",
+        "description": " DOS R/O or SpeedStor"
+    },
+    {
+        "id": "E4",
+        "description": " SpeedStor 16-bit FAT extended partition &lt; 1024 cyl."
+    },
+    {
+        "id": "E5",
+        "description": " Tandy MSDOS with"
+    },
+    {
+        "id": "E6",
+        "description": " Storage Dimensions SpeedStor"
+    },
+    {
+        "id": "E8",
+        "description": " LUKS"
+    },
+    {
+        "id": "EA",
+        "description": " Rufus extra partition"
+    },
+    {
+        "id": "EA",
+        "description": " Freedesktop boot"
+    },
+    {
+        "id": "EB",
+        "description": " BeOS BFS"
+    },
+    {
+        "id": "EC",
+        "description": " SkyOS SkyFS"
+    },
+    {
+        "id": "ED",
+        "description": " Unused"
+    },
+    {
+        "id": "EE",
+        "description": " Indication that this legacy MBR is followed by an EFI header"
+    },
+    {
+        "id": "EF",
+        "description": " Partition that contains an EFI file system"
+    },
+    {
+        "id": "F0",
+        "description": " Linux/PA-RISC boot loader"
+    },
+    {
+        "id": "F1",
+        "description": " Storage Dimensions SpeedStor"
+    },
+    {
+        "id": "F2",
+        "description": " DOS 3.3+ secondary partition"
+    },
+    {
+        "id": "F3",
+        "description": " Reserved"
+    },
+    {
+        "id": "F4",
+        "description": " SpeedStor large partition"
+    },
+    {
+        "id": "F4",
+        "description": " Prologue single-volume partition"
+    },
+    {
+        "id": "F5",
+        "description": " Prologue multi-volume partition"
+    },
+    {
+        "id": "F6",
+        "description": " Storage Dimensions SpeedStor"
+    },
+    {
+        "id": "F7",
+        "description": " DDRdrive Solid State File System"
+    },
+    {
+        "id": "F9",
+        "description": " pCache"
+    },
+    {
+        "id": "FA",
+        "description": " Bochs"
+    },
+    {
+        "id": "FB",
+        "description": " VMware File System partition"
+    },
+    {
+        "id": "FC",
+        "description": " VMware Swap partition"
+    },
+    {
+        "id": "FD",
+        "description": " Linux raid partition with autodetect using persistent superblock"
+    },
+    {
+        "id": "FE",
+        "description": " SpeedStor &gt; 1024 cyl."
+    },
+    {
+        "id": "FE",
+        "description": " LANstep"
+    },
+    {
+        "id": "FE",
+        "description": " IBM PS/2 IML (Initial Microcode Load) partition,"
+    },
+    {
+        "id": "FE",
+        "description": " Windows NT Disk Administrator hidden partition"
+    },
+    {
+        "id": "FE",
+        "description": " Linux Logical Volume Manager partition (old)"
+    },
+    {
+        "id": "FF",
+        "description": " Xenix Bad Block Table"
+    }
+]
