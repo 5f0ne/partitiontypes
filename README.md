@@ -10,11 +10,12 @@ Provides values to identify the partition type within a master boot record.
 
 **From command line:**
 
-`python -m partitiontypes  --update`
+`python -m partitiontypes [--value VALUE] [--update]`
 
 | Option | Short | Type | Default | Description |
 |---|---|---|---|---|
-|--update | -u | Bool | - | Updates the current list of partition ids |
+|--value | -v | String | - | The id to be investigated as one byte hex (hex values need to be uppercase) |
+|--update | -u | Flag | - | Updates the current list of partition ids |
 
 **Programmatically:**
 
@@ -60,6 +61,37 @@ Number of IDs: 273
 ################################################################################
 
 Execution Time: 0.583953 sec
+```
+
+If you want to ask for a partition type:
+
+`python -m partitiontypes -v 07`
+
+```
+################################################################################
+
+Partition Types by 5f0
+Provides values to identify the partition type within a master boot record      
+
+Current working directory: /path/to/partitiontypes
+
+ Datetime: 01/01/1970 16:17:18
+
+################################################################################
+
+
+Candidates for 07:
+
+---> ID: 07 Type:  OS/2 IFS (e.g., HPFS)
+---> ID: 07 Type:  Windows NT NTFS
+---> ID: 07 Type:  exFAT
+---> ID: 07 Type:  Advanced Unix
+---> ID: 07 Type:  QNX2.x pre-1988 (see below under IDs 4d-4f)
+
+################################################################################
+
+Execution Time: 0.002954 sec
+
 ```
 
 # Credits

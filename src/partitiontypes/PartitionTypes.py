@@ -15,7 +15,9 @@ class PartitionTypes():
 
     def getIds(self, id):
         matches = []
-
+        if(len(id) == 1):
+            id = "0" + id
+        id = id.upper()
         for partitionId in self.partitionIds:
             if(partitionId.id == id):
                 matches.append(partitionId)

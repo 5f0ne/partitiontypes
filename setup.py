@@ -5,7 +5,7 @@ with open("README.md", "r") as r:
 
 setup(
     name="partitiontypes",             # This name is used in: pip install hello-world
-    version="1.0.0",
+    version="1.0.1",
     author="5f0",
     url="https://github.com/5f0ne/partitiontypes",
     description="Provides values to identify the partition type within a master boot record",
